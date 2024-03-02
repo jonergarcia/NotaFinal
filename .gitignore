@@ -1,0 +1,100 @@
+# Arquivos temporários
+*~
+*.swp
+*.bak
+*.cache
+
+# Arquivos de compilação e artefatos gerados
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+*.log
+*.zip
+*.ipch
+*.suo
+*.user
+*.tlb
+*.tlh
+*.tli
+*.obj
+*.pch
+*.ncb
+*.idb
+*.ilk
+*.aps
+*.res
+*.pch
+*.vspscc
+*.vssscc
+*.xap
+*.v11.suo
+*.v12.suo
+*.v14.suo
+*.v15.suo
+*.mdf
+*.ldf
+
+# Diretório de dependências NuGet
+packages/
+
+# Arquivos de configuração específicos do Visual Studio
+.vs/
+*.sln.docstates
+*.suo
+*.userprefs
+*.vspscc
+*.vssscc
+
+# Ferramentas específicas do Rider (IDE da JetBrains)
+.idea/
+*.sln.iml
+
+# Arquivos de cache do ReSharper
+_ReSharper*/
+
+# Arquivos de cache do Visual Studio Code
+.vscode/
+
+# Arquivos de configuração específicos do MSBuild
+*.cache
+*.diff
+*.dbmdl
+*.jfm
+*.sbr
+*.v12.suo
+*.scc
+
+# Pacotes do NuGet
+*.nupkg
+*.paket.restore.log
+*.paket.packages
+*.paket.dependencies
+*.paket.lock
+
+# Arquivos do Rider
+.idea/
+*.csproj.dotSettings
+
+# Ferramentas do Windows
+[Tt]humbs.db
+*.[Cc]ache
+*.[Bb]ackup
+*.[Ll]og
+
+# Arquivos de configuração específicos do macOS
+.DS_Store
+
+# Arquivos de configuração específicos do Linux
+*~
+
+# Outros artefatos gerados
+coverage/
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.pfx

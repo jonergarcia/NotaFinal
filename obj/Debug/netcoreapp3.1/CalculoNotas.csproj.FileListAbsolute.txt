@@ -1,0 +1,14 @@
+C:\Users\Joner\source\repos\CalculoNotas\bin\Debug\netcoreapp3.1\CalculoNotas.exe
+C:\Users\Joner\source\repos\CalculoNotas\bin\Debug\netcoreapp3.1\CalculoNotas.deps.json
+C:\Users\Joner\source\repos\CalculoNotas\bin\Debug\netcoreapp3.1\CalculoNotas.runtimeconfig.json
+C:\Users\Joner\source\repos\CalculoNotas\bin\Debug\netcoreapp3.1\CalculoNotas.runtimeconfig.dev.json
+C:\Users\Joner\source\repos\CalculoNotas\bin\Debug\netcoreapp3.1\CalculoNotas.dll
+C:\Users\Joner\source\repos\CalculoNotas\bin\Debug\netcoreapp3.1\CalculoNotas.pdb
+C:\Users\Joner\source\repos\CalculoNotas\obj\Debug\netcoreapp3.1\CalculoNotas.csproj.AssemblyReference.cache
+C:\Users\Joner\source\repos\CalculoNotas\obj\Debug\netcoreapp3.1\CalculoNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joner\source\repos\CalculoNotas\obj\Debug\netcoreapp3.1\CalculoNotas.AssemblyInfoInputs.cache
+C:\Users\Joner\source\repos\CalculoNotas\obj\Debug\netcoreapp3.1\CalculoNotas.AssemblyInfo.cs
+C:\Users\Joner\source\repos\CalculoNotas\obj\Debug\netcoreapp3.1\CalculoNotas.csproj.CoreCompileInputs.cache
+C:\Users\Joner\source\repos\CalculoNotas\obj\Debug\netcoreapp3.1\CalculoNotas.dll
+C:\Users\Joner\source\repos\CalculoNotas\obj\Debug\netcoreapp3.1\CalculoNotas.pdb
+C:\Users\Joner\source\repos\CalculoNotas\obj\Debug\netcoreapp3.1\CalculoNotas.genruntimeconfig.cache
